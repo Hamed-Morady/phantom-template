@@ -71,9 +71,6 @@ export default function Header(){
               <li>
                 <a href="/generic.html">Consequat dolor</a>
               </li>
-              {/* <li className="opacity">
-                <a>hi</a>
-              </li> */}
             </ul>
           </nav>
         </div>
