@@ -7,7 +7,7 @@ It’s ideal for showcasing your brand, portfolio, or services. You can use it a
 
 ## Demo
 👉 [View Live Demo](#)  
-*(Replace `#` with your demo link)*
+
 
 ---
 
