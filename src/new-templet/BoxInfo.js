@@ -4,8 +4,6 @@ import Header from "./Header";
 import Footer from "./Footer";
 
 export default function BoxInfo() {
-  // const location = useLocation();
-  // const { name, image } = location.state || {};
   return (
     <div className="container">
       <div className="inner">
