@@ -1,4 +1,4 @@
-import { useState } from "react";
+import REACT from "react";
 import "../templet.css";
 import Tiles from "./Tils";
 import Footer from "./Footer";
